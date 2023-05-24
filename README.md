@@ -10,23 +10,7 @@ Follow these steps to change font size, font family, and background color in the
 
 You can open the settings by using the shortcut `Ctrl+,` or by navigating through the menu `File -> Preferences -> Settings`.
 
-## 2. Find the terminal settings
-
-Use the search bar at the top of the settings tab. Type "terminal" to see a list of terminal settings.
-
-## 3. Alter the terminal's font size and family
-
-- To change the font size, search for "Terminal › Integrated › Font Size" and set the size in the input box.
-- To change the font family, search for "Terminal › Integrated › Font Family". Input the name of the font you'd like to use.
-
-## 4. Change the terminal's background color
-
-You can modify the overall color theme to change the terminal's colors:
-
-- Navigate through the menu `File -> Preferences -> Color Theme`, or use the shortcut `Ctrl+K, Ctrl+T`.
-- Select one of the preinstalled themes, or install a new one from the extensions marketplace.
-
-## 5. Custom Color Settings (Advanced)
+## 2. Custom Color Settings (Advanced)
 
 If you need more control over your terminal's appearance, you can modify specific elements directly in the `settings.json` file:
 
