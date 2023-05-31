@@ -75,3 +75,4 @@ If you need more control over your terminal's appearance, you can modify specifi
     "terminal.integrated.fontSize": 16      
 }
 ```
+Autocompletion to be added for terminal too.
