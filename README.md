@@ -73,5 +73,6 @@ If you need more control over your terminal's appearance, you can modify specifi
     },
     "terminal.integrated.fontFamily": "Fira Code",
     "terminal.integrated.fontSize": 16
+    }
 ```
 Autocompletion to be added for terminal too. https://kubernetes.io/docs/reference/kubectl/cheatsheet/#kubectl-autocomplete
