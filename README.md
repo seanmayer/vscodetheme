@@ -49,30 +49,29 @@ If you need more control over your terminal's appearance, you can modify specifi
             }
         ]
     },
-    "workbench.colorCustomizations": {
-        "terminal.foreground": "#93a1a1",
-        "terminal.background": "#002b36",
-        "terminalCursor.background": "#93a1a1",
-        "terminalCursor.foreground": "#93a1a1",
-        "terminal.ansiBlack": "#002b36",
-        "terminal.ansiRed": "#dc322f",
-        "terminal.ansiGreen": "#859900",
-        "terminal.ansiYellow": "#b58900",
-        "terminal.ansiBlue": "#268bd2",
-        "terminal.ansiMagenta": "#d33682",
-        "terminal.ansiCyan": "#2aa198",
-        "terminal.ansiWhite": "#eee8d5",
-        "terminal.ansiBrightBlack": "#073642",
-        "terminal.ansiBrightRed": "#cb4b16",
-        "terminal.ansiBrightGreen": "#586e75",
-        "terminal.ansiBrightYellow": "#657b83",
-        "terminal.ansiBrightBlue": "#839496",
-        "terminal.ansiBrightMagenta": "#6c71c4",
-        "terminal.ansiBrightCyan": "#93a1a1",
-        "terminal.ansiBrightWhite": "#fdf6e3"
+    "workbench.colorCustomizations": {    
+        "terminal.foreground": "#80a4c2",
+        "terminal.background": "#001f3f",
+        "terminalCursor.background": "#80a4c2",
+        "terminalCursor.foreground": "#80a4c2",
+        "terminal.ansiBlack": "#001f3f",
+        "terminal.ansiRed": "#85144b",
+        "terminal.ansiGreen": "#3D9970",
+        "terminal.ansiYellow": "#FFDC00",
+        "terminal.ansiBlue": "#0074D9",
+        "terminal.ansiMagenta": "#B10DC9",
+        "terminal.ansiCyan": "#39CCCC",
+        "terminal.ansiWhite": "#AAAAAA",
+        "terminal.ansiBrightBlack": "#111111",
+        "terminal.ansiBrightRed": "#FF4136",
+        "terminal.ansiBrightGreen": "#2ECC40",
+        "terminal.ansiBrightYellow": "#FF851B",
+        "terminal.ansiBrightBlue": "#7FDBFF",
+        "terminal.ansiBrightMagenta": "#F012BE",
+        "terminal.ansiBrightCyan": "#7FDBFF",
+        "terminal.ansiBrightWhite": "#DDDDDD"
     },
     "terminal.integrated.fontFamily": "Fira Code",
-    "terminal.integrated.fontSize": 16      
-}
+    "terminal.integrated.fontSize": 16
 ```
 Autocompletion to be added for terminal too. https://kubernetes.io/docs/reference/kubectl/cheatsheet/#kubectl-autocomplete
